@@ -1,6 +1,11 @@
 # deltavar
 https://arxiv.org/pdf/2502.14698
 
+# Installation
+```bash
+uv add deltavar
+```
+
 ## Overview
 This library provides tools to calculate the Delta Variance, an approximation for the change in a model's prediction variance due to uncertainty in its parameters, often linked to epistemic uncertainty. It leverages `torch.func` for functional gradient computations.
 
