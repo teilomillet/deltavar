@@ -1,7 +1,7 @@
 [project]
 name = "deltavar"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.1.1"
+description = "Tools to calculate the Delta Variance for epistemic uncertainty estimation in PyTorch, using torch.func."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
